@@ -13,7 +13,7 @@ This assignment involved working with Oracle Pluggable Databases (PDBs) in a Doc
 
 1. **Task 1:** Create a new PDB and a user inside it.  
 2. **Task 2:** Create a temporary PDB, verify it exists, and delete it completely.  
-3. **Task 3:** Attempted to perform PDB operations using Linux terminal, which proved not possible in this setup.
+3. **Task 3:** Attempted to perform PDB operations using Linux terminal.
 
 ---
 
