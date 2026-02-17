@@ -20,9 +20,8 @@ This assignment involved working with Oracle Pluggable Databases (PDBs) in a Doc
 **Oracle Environment Used**
 
 - **Oracle Version:** Oracle 21c XE (via Docker)  
-- **Database Container:** gvenzl/oracle-xe  
 - **Operating System:** Ubuntu (host machine)  
-- **Tools:** SQL*Plus, SQL Developer  
+- **Tools:**  SQL Developer  
 
 ---
 
